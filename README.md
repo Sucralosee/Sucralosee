@@ -2,13 +2,6 @@
 
 This README serves as a central hub for all my projects, skills, and achievements. Feel free to explore the code, learn about my work, and get in touch if you'd like to collaborate.
 
-### Table of Contents
------------------
-- About Me
-- Skills
-- Projects
-- Get in Touch
-
 ## About Me
 ---------
 Hi! I'm Ben Louis, a passionate web/graphic designer and front-end developer. I focus on web and graphic design. I love learning new things and finding innovative solutions to problems.
