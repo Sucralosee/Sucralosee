@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+---
+> Change is invigorating! If you dont accept new challenges, you become complacent and lazy! Your life trophies!
 
+— Calvin and Hobbs
+
+<!--
 **Sucralosee/Sucralosee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
