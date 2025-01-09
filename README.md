@@ -1,12 +1,5 @@
 # Welcome to my portfolio repository! 👋
 
----
-> Change is invigorating! If you don't accept new challenges, you become complacent and lazy! Your life trophies!
-
-— Calvin and Hobbs
-
-# My Portfolio
-
 This README serves as a central hub for all my projects, skills, and achievements. Feel free to explore the code, learn about my work, and get in touch if you'd like to collaborate.
 
 ### Table of Contents
@@ -14,7 +7,6 @@ This README serves as a central hub for all my projects, skills, and achievement
 - About Me
 - Skills
 - Projects
-- Achievements
 - Get in Touch
 
 ## About Me
@@ -24,36 +16,23 @@ Hi! I'm Ben Louis, a passionate web/graphic designer and front-end developer. I 
 🌍 Based in: Vancouver
 <!-- 🎓 Education: [Your Degree or Certification] -->
 💼 Currently: Student
+
 🌟 Interests: Working out, exploring nature, and reading books
+
+---
+> Change is invigorating! If you don't accept new challenges, you become complacent and lazy! Your life trophies!
+
+— Calvin and Hobbs
 
 ## Skills
 ------
 Here are some of the technologies and tools I specialize in:
 
-| ### Programming Languages | ### Frameworks & Libraries |### Others|
+|Programming Languages | Frameworks & Libraries |Others|
 |-----:|---------------|---------------|
 |JavaScript|React|Graphic Design|
 |TypeScript|Next.js|UI/UX design|
 |HTML||Branding|
-
-### Programming Languages
-----------------------
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-
-### Frameworks & Libraries
-----------------------
-- React
-- Next.js
-
-### Others
-------
-- Agile methodologies
-- UI/UX design
-- Graphic Design
-- Branding
 
 ## Projects
 --------
@@ -77,7 +56,7 @@ Description: This app is an all-in-one information hub for wildfire monitoring i
   - Server-Side Rendering and Static Generation:
 - Fetches and displays real-time weather data.
 
-🚀 Demo: [link](https://flare-idsp.vercel.app/)
+🚀 Demo: [Link](https://flare-idsp.vercel.app/)
 
 <!-- ### Project Name 2
 ---------------
@@ -99,7 +78,9 @@ Achievements
 I’d love to connect and discuss opportunities or collaborations! You can reach me through the following channels:
 
 Email: benlouis.contact@gmail.com
-LinkedIn: [linkedin](https://www.linkedin.com/in/ben-louis-001116308/)
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/ben-louis-001116308/)
+
 Portfolio Website: not yet
 
 Thank you for visiting my portfolio! Feel free to explore my work and reach out if you have any questions or opportunities to collaborate. Let's build something great together!
