@@ -72,6 +72,7 @@ Portfolio Website: not yet
 
 Thank you for visiting my portfolio! Feel free to explore my work and reach out if you have any questions or opportunities to collaborate. Let's build something great together!
 
+and here is a lil quote that i like
 ---
 > Change is invigorating! If you don't accept new challenges, you become complacent and lazy! Your life atrophies!
 
