@@ -30,6 +30,12 @@ Hi! I'm Ben Louis, a passionate web/graphic designer and front-end developer. I 
 ------
 Here are some of the technologies and tools I specialize in:
 
+| ### Programming Languages | ### Frameworks & Libraries |### Others|
+|-----:|---------------|---------------|
+|JavaScript|React|Graphic Design|
+|TypeScript|Next.js|UI/UX design|
+|HTML||Branding|
+
 ### Programming Languages
 ----------------------
 - JavaScript
@@ -97,8 +103,3 @@ LinkedIn: [linkedin](https://www.linkedin.com/in/ben-louis-001116308/)
 Portfolio Website: not yet
 
 Thank you for visiting my portfolio! Feel free to explore my work and reach out if you have any questions or opportunities to collaborate. Let's build something great together!
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
