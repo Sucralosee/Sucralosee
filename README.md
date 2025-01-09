@@ -1,7 +1,5 @@
 # Welcome to my portfolio repository! 👋
 
-This README serves as a central hub for all my projects, skills, and achievements. Feel free to explore the code, learn about my work, and get in touch if you'd like to collaborate.
-
 ## About Me
 ---------
 Hi! I'm Ben Louis, a passionate web/graphic designer and front-end developer. I focus on web and graphic design. I love learning new things and finding innovative solutions to problems.
@@ -10,27 +8,23 @@ Hi! I'm Ben Louis, a passionate web/graphic designer and front-end developer. I 
 <!-- 🎓 Education: [Your Degree or Certification] -->
 💼 Currently: Student
 
-🌟 Interests: Working out, exploring nature, and reading books
-
----
-> Change is invigorating! If you don't accept new challenges, you become complacent and lazy! Your life trophies!
-
-— Calvin and Hobbs
+🌟 Interests: Exploring nature, working out, and reading books
 
 ## Skills
 ------
 Here are some of the technologies and tools I specialize in:
 
 |Programming Languages | Frameworks & Libraries |Others|
-|-----:|---------------|---------------|
+|-----|---------------|---------------|
 |JavaScript|React|Graphic Design|
 |TypeScript|Next.js|UI/UX design|
-|HTML||Branding|
+|HTML|Tailwind|Adobe Creative Suite|
+|CSS|Node.js|Branding|
 
-## Projects
---------
-### Flare
----------------
+
+
+## Projects - Flare
+------
 Description: This app is an all-in-one information hub for wildfire monitoring in British Columbia. It provides real-time news updates, emergency alerts, detailed maps, and live weather data to keep users informed and safe. The app includes an AI-powered chatbot for personalized assistance and guidance while displaying current risk levels for different areas to help users assess potential threats. Whether you're looking for the latest wildfire news, emergency instructions, or specific local data, this app ensures you have all the information you need.
 
 🛠 Tech Stack: 
@@ -77,3 +71,8 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/ben-louis-001116308/)
 Portfolio Website: not yet
 
 Thank you for visiting my portfolio! Feel free to explore my work and reach out if you have any questions or opportunities to collaborate. Let's build something great together!
+
+---
+> Change is invigorating! If you don't accept new challenges, you become complacent and lazy! Your life atrophies!
+
+— Calvin and Hobbs
