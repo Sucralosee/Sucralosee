@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my portfolio repository! 👋
 
 ---
 > Change is invigorating! If you dont accept new challenges, you become complacent and lazy! Your life trophies!
@@ -6,7 +6,7 @@
 — Calvin and Hobbs
 My Portfolio
 
-Welcome to my portfolio repository! This README serves as a central hub for all my projects, skills, and achievements. Feel free to explore the code, learn about my work, and get in touch if you'd like to collaborate.
+This README serves as a central hub for all my projects, skills, and achievements. Feel free to explore the code, learn about my work, and get in touch if you'd like to collaborate.
 
 Table of Contents
 -----------------
@@ -18,12 +18,12 @@ Table of Contents
 
 About Me
 ---------
-Hi! I'm [Your Name], a passionate [Your Profession, e.g., Software Developer, Designer, Data Scientist] with a focus on [Your Specializations, e.g., full-stack development, UX design, machine learning]. I love solving problems, creating impactful solutions, and learning new technologies.
+Hi! I'm Ben Louis, a passionate web/graphic designer and front-end developer. I focus on web and graphic design. I love learning new things and finding innovative solutions to problems.
 
-🌍 Based in: [Your Location]
-🎓 Education: [Your Degree or Certification]
-💼 Currently: [Your Current Role or Status]
-🌟 Interests: [Your Hobbies or Tech Interests]
+🌍 Based in: Vancouver
+<!-- 🎓 Education: [Your Degree or Certification] -->
+💼 Currently: Student
+🌟 Interests: Working out, exploring nature, and reading books
 
 Skills
 ------
@@ -31,32 +31,28 @@ Here are some of the technologies and tools I specialize in:
 
 Programming Languages
 ----------------------
-- Python
 - JavaScript
-- C++
+- TypeScript
+- HTML
+- CSS
 
 Frameworks & Libraries
 ----------------------
 - React
-- Django
-- TensorFlow
-
-Tools & Platforms
------------------
-- Git
-- Docker
-- AWS
+- Next.js
 
 Others
 ------
 - Agile methodologies
 - UI/UX design
+- Graphic Design
+- Branding
 
 Projects
 --------
-Project Name 1
+Flare
 ---------------
-Description: A brief overview of the project, its purpose, and its impact.
+Description: This app is an all-in-one information hub for wildfire monitoring in British Columbia. It provides real-time news updates, emergency alerts, detailed maps, and live weather data to keep users informed and safe. The app includes an AI-powered chatbot for personalized assistance and guidance while displaying current risk levels for different areas to help users assess potential threats. Whether you're looking for the latest wildfire news, emergency instructions, or specific local data, this app ensures you have all the information you need.
 🛠 Tech Stack: [Technologies Used]
 🌟 Highlights: [Key Features or Achievements]
 🚀 Demo: [Link to Live Demo, if applicable]
